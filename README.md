@@ -1,7 +1,7 @@
 # Bug Bounty Resources And Readings
 ****
 
-## Important and Medium Articles
+## Medium Articles
 ****
 #### [XSS in pastebin.com and reddit.com via unsanitized Markdown Output](https://medium.com/@Nhoya/xss-in-pastebin-com-via-unsanitized-output-e216190b7949)
 #### [BugBounty — How I was able to bypass firewall to get RCE and then went from server shell to get root user account!](https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94)
