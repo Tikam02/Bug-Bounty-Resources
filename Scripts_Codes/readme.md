@@ -8,8 +8,7 @@
 <li>PHP-BWAPP</li>
 </ul>
 <hr>
-<br>
-### List of books That i've used to Learn and Test the vulnerabilities.
+<Strong>List of books That i've used to Learn and Test the vulnerabilities.</strong>
 <ul>
 <li>Tangled Web</li>
 <li></li>
