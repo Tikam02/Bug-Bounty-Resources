@@ -9,3 +9,8 @@
 </ul>
 <hr>
 <br>
+### List of books That i've used to Learn and Test the vulnerabilities.
+<ul>
+<li>Tangled Web</li>
+<li></li>
+</ul>
