@@ -18,3 +18,8 @@ We have designed SubFinder to comply with all passive sources licenses, and usag
 <p>The OWASP Amass tool obtains subdomain names by scraping data sources, recursive brute forcing, crawling web archives, permuting/altering names and reverse DNS sweeping. Additionally, Amass uses the IP addresses obtained during resolution to discover associated netblocks and ASNs. All the information is then used to build maps of the target networks.</p><br>
  <strong>Full-Documentation<a href="https://github.com/OWASP/Amass">Amass</a></strong>
 <hr>
+<h2>MassDns</h2>
+<p>MassDNS is a simple high-performance DNS stub resolver targetting those who seek to resolve a massive amount of domain names in the order of millions or even billions. Without special configuration, MassDNS is capable of resolving over 350,000 names per second using publicly available resolvers.</p><br>
+ <strong>Full-Documentation<a href="https://github.com/blechschmidt/massdns">MassDns</a></strong>
+ <hr>
+
