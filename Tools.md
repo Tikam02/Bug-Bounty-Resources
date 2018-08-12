@@ -22,4 +22,10 @@ We have designed SubFinder to comply with all passive sources licenses, and usag
 <p>MassDNS is a simple high-performance DNS stub resolver targetting those who seek to resolve a massive amount of domain names in the order of millions or even billions. Without special configuration, MassDNS is capable of resolving over 350,000 names per second using publicly available resolvers.</p><br>
  <strong>Full-Documentation<a href="https://github.com/blechschmidt/massdns">MassDns</a></strong>
  <hr>
+ <h2>Sublist3r</h2>
+ <hr>
+ <p>Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu, and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster, and ReverseDNS.</p><br>
+ <strong>Full-Documentation<a href="https://github.com/aboul3la/Sublist3r">Sublist3r</a></strong><br>
+ <hr>
+
 
