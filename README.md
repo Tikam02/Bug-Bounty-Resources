@@ -1,5 +1,6 @@
-# Bug Bounty Resources And Readings
-****
+<h1>Bug Bounty Resources And Readings</h1>
+<h2>#100DaysOfCode</h2>
+<hr>
 
 ## Medium Articles
 ****
