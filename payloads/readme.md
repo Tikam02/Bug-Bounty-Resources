@@ -10,3 +10,9 @@
 <a href="https://github.com/danielmiessler/SecLists">SecList</a>
 <h2>FuzzDb</h2>
 <a href="https://github.com/fuzzdb-project/fuzzdb">Fuzzing Database</a>
+<h2>Xss-Payloads-list</h2>
+<a href="https://xss.devwerks.net/">XSS-HTML5-List</a>
+<h2>Bugbounty Cheatsheet From @EdOverflow</h2>
+<a href="https://github.com/EdOverflow/bugbounty-cheatsheet">Cheatsheet</a>
+<h2>Another XSS Payload List</a>
+<a href="https://github.com/ismailtasdelen/xss-payload-list">Payload Lists</a>
