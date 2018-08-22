@@ -8,3 +8,5 @@
 <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payloads</a>
 <h2>List of Important Payloads and Attack Vectors</h2>
 <a href="https://github.com/danielmiessler/SecLists">SecList</a>
+<h2>FuzzDb>
+<a href="https://github.com/fuzzdb-project/fuzzdb">Fuzzing Database</a>
