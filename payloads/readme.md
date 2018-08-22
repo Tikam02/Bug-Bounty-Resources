@@ -14,5 +14,5 @@
 <a href="https://xss.devwerks.net/">XSS-HTML5-List</a>
 <h2>Bugbounty Cheatsheet From @EdOverflow</h2>
 <a href="https://github.com/EdOverflow/bugbounty-cheatsheet">Cheatsheet</a>
-<h2>Another XSS Payload List</a>
+<h2>Another XSS Payload List</h2>
 <a href="https://github.com/ismailtasdelen/xss-payload-list">Payload Lists</a>
