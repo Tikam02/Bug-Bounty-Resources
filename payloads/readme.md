@@ -1,4 +1,4 @@
-<h1> Cheatsheet of Payloads and Testing Guide</h1>
+# Cheatsheet of Payloads and Testing Guide :computer: :top: :new:
 <hr>
 <h2>XSS Filter Evasion Cheat Sheet</h2>
 <a href="https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet#URL_encoding">XSS Filter Evasion Cheat Sheet</a>
