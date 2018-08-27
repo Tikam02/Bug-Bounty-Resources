@@ -11,6 +11,7 @@
 #### [Bug-Hunting Methodology](https://github.com/jhaddix/tbhm)
 #### [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 #### [Bug-Bounty Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+#### [BugCrowd University](https://github.com/bugcrowd/bugcrowd_university)
 
 
 <h2>A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.</h2>
