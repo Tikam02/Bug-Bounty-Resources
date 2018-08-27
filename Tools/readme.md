@@ -1,3 +1,9 @@
+<ul><h1>Tools and Frameworks</h1>
+ <li>Discovery</li>
+ <li>State Of The Art Bug hunting Tools</li>
+ <li>Labs and VMs</li>
+ </ul>
+<hr>
 <h1><Strong>Discovery</strong></h1>
 <hr>
 <h2> AQUATONE </h2>
@@ -27,5 +33,9 @@ We have designed SubFinder to comply with all passive sources licenses, and usag
  <p>Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu, and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster, and ReverseDNS.</p><br>
  <strong>Full-Documentation<a href="https://github.com/aboul3la/Sublist3r">Sublist3r</a></strong><br>
  <hr>
-
-
+<ul><h1>Labs and VMs</h1>
+ <li>OWASP WebGoat</li>
+ <li>BWApp</li>
+ <li>DVWA</li>
+ <li>JUICE-Shop</li>
+</ul>
