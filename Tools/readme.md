@@ -37,5 +37,5 @@ We have designed SubFinder to comply with all passive sources licenses, and usag
  <li>OWASP WebGoat</li>
  <li>BWApp</li>
  <li>DVWA</li>
- <li>JUICE-Shop</li>
+ <li><a href="https://github.com/bkimminich/juice-shop">JUICE-Shop</a></li>
 </ul>
