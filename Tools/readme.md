@@ -34,8 +34,8 @@ We have designed SubFinder to comply with all passive sources licenses, and usag
  <strong>Full-Documentation<a href="https://github.com/aboul3la/Sublist3r">Sublist3r</a></strong><br>
  <hr>
 <ul><h1>Labs and VMs</h1>
- <li>OWASP WebGoat</li>
- <li>BWApp</li>
- <li>DVWA</li>
+ <li><a href="https://github.com/WebGoat/WebGoat">OWASP WebGoat</a></li>
+ <li><a href="http://www.itsecgames.com/">BWApp</a></li>
+ <li><a href="http://www.dvwa.co.uk/">DVWA</a></li>
  <li><a href="https://github.com/bkimminich/juice-shop">JUICE-Shop</a></li>
 </ul>
