@@ -13,6 +13,10 @@
 #### [Bug-Bounty Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 #### [BugCrowd University](https://github.com/bugcrowd/bugcrowd_university)
 
+## Bug Bounty POCs
+*****
+#### [XSS-POCs](http://www.xsses.com/)
+
 
 <h2>A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.</h2>
 
