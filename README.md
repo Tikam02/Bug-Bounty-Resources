@@ -16,6 +16,8 @@
 ## Bug Bounty POCs
 *****
 #### [XSS-POCs](http://www.xsses.com/)
+#### [Bugcrowd-POC-Forum](https://forum.bugcrowd.com/c/security-research/proof-of-concepts)
+####  [Bugcrowd-researchers-Writeups ](https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137)
 
 
 <h2>A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.</h2>
